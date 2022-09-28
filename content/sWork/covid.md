@@ -5,6 +5,9 @@ dateString: April 2020 - July 2020
 draft: false
 showToc: false
 weight: 403
+
+# ![](/experience/alyog/alyogimage.png#center)
+
 --- 
 
 ## Description
@@ -14,4 +17,3 @@ weight: 403
 - Created awareness among the general public about the disease.
 - Took the initiative to educate people about the best practices to undertake in order to stay safe and to curb the spread of the disease.
 
-# ![](/experience/alyog/alyogimage.png#center)

@@ -5,6 +5,9 @@ dateString: January 2022 - February 2022
 draft: false
 showToc: false
 weight: 401
+
+# ![](/experience/alyog/alyogimage.png#center)
+
 --- 
 
 ## Description
@@ -15,4 +18,3 @@ weight: 401
 - Took the initiative to educate people about the various ways in which the saving and increased plantation of trees is going to benefit the residents of Sirsa.
 - Encouraged people and various organizations to take a pledge to plant a tree every year on some special occasion.
 
-# ![](/experience/alyog/alyogimage.png#center)

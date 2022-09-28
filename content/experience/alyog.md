@@ -6,10 +6,13 @@ draft: false
 tags: ["Python", "Data Analysis", "Machine Learning", "PyTorch", "Keras.io", "Jupyter", "Colab", "Scikit Learn", "Tableau"]
 showToc: false
 weight: 302
+
+# **Guide:** **Mohammad Farid Azampour** (Visiting Researcher at Chair for Computer Aided Medical Procedures, TU Munich)
+
 ---
 
+
 ## Description
-**Guide:** **Mohammad Farid Azampour** (Visiting Researcher at Chair for Computer Aided Medical Procedures, TU Munich)
 
 During the internship, I was provided with access to the company's database. This database contained data related to various automotive parts that are manufactured by the company.
 

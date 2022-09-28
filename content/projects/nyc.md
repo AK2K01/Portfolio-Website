@@ -1,6 +1,6 @@
 ---
 title: "New York City Taxi Fare Prediction"
-description: "Guide: Prof. Nitesh Pradhan (Professor at Manipal University Jaipur)"
+# description: "Guide: Prof. Nitesh Pradhan (Professor at Manipal University Jaipur)"
 dateString: February 2022
 draft: false
 tags: ["Python", "Machine Learning", "Data Analysis", "Jupyter", "Colab"]

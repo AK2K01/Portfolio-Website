@@ -1,6 +1,6 @@
 ---
 title: "Brain Trainer | Android Application"
-description: "Guide: Dr. Sandeep Joshi (Professor at Manipal University Jaipur)"
+# description: "Guide: Dr. Sandeep Joshi (Professor at Manipal University Jaipur)"
 dateString: April 2021 - May 2021
 draft: false
 tags: ["Java", "Android", "Android Studio", "XML"]

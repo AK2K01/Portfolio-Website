@@ -1,6 +1,6 @@
 ---
 title: "Store Sales Prediction Using Machine Learning Models"
-description: "Guide: Prof. Nitesh Pradhan (Professor at Manipal University Jaipur)"
+# description: "Guide: Prof. Nitesh Pradhan (Professor at Manipal University Jaipur)"
 dateString: December 2021 - January 2022
 draft: false
 tags: ["Python", "Machine Learning", "Data Analysis", "Jupyter", "Colab", "Data Warehouse", "Data Mining"]

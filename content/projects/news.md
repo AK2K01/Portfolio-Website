@@ -1,6 +1,6 @@
 ---
 title: "News Right | Android Application"
-description: "Guide: Dr. Sandeep Joshi (Professor at Manipal University Jaipur)"
+# description: "Guide: Dr. Sandeep Joshi (Professor at Manipal University Jaipur)"
 dateString: June 2021 - July 2021
 draft: false
 tags: ["Java", "Android", "Android Studio", "XML", "Firebase", "API", "API Integration", "News"]

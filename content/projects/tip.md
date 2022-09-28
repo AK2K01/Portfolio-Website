@@ -1,6 +1,6 @@
 ---
 title: "Tip Prediction Using Fuzzy Logic Controller (Fuzzy Inference System)"
-description: "Guide: Prof. Nitesh Pradhan (Professor at Manipal University Jaipur)"
+# description: "Guide: Prof. Nitesh Pradhan (Professor at Manipal University Jaipur)"
 dateString: October 2021 - November 2021
 draft: false
 tags: ["Artificial Intelligence", "Soft Computing", "Fuzzy Logic", "Fuzzy Inference System", "MATLAB"]

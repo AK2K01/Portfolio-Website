@@ -9,10 +9,10 @@ menu:
       name: Home
       url: /
       weight: 10
-   # - identifier: blog
-   #  name: Blog
-   #  url: /blog
-   #  weight: 20
+    # - identifier: blog
+    #  name: Blog
+    #  url: /blog
+    #  weight: 20
     - identifier: projects
       name: Projects
       url: /projects
@@ -21,9 +21,9 @@ menu:
       name: Experience
       url: /experience
       weight: 40
-    - identifier: sWork
-      name: Social Works
-      url: /sWork
+    - identifier: welfare
+      name: Welfare
+      url: /welfare
       weight: 50
     - identifier: search
       name: Search
@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true
     title: "Akshit Kamboj"
-    subtitle: Upcoming SDE Intern @ Amazon 2023<br> B.Tech. in Computer Science & Engineering at **Manipal University Jaipur**, Rajasthan, India 🇮🇳
+    subtitle: Associate Data Engineer @ Shell<br> Former SDE Intern @ Amazon 2023<br> B.Tech. in Computer Science & Engineering at **Manipal University Jaipur**, Rajasthan, India 🇮🇳
     imageUrl: "home/AkshitKamboj_199302034_CSE_7A.jpg"
     imageWidth: 220
     imageHeight: 220
@@ -80,10 +80,10 @@ params:
       url: "https://www.linkedin.com/in/akshit-kamboj-435296230/"
     - name: "github"
       url: "https://github.com/AK2K01"
-  #  - name: "youtube"
-  #    url: "https://www.youtube.com/c/AbdurRahmanKalim"
+    #  - name: "youtube"
+    #    url: "https://www.youtube.com/c/AbdurRahmanKalim"
     - name: "cv"
-      url: "https://docs.google.com/document/d/1dOggvLiOY-R9ZatDmAFPO9Ik40vFivECj8AcKZ2Ko5Q/edit?usp=sharing"
+      url: "https://docs.google.com/document/d/15gMuxC9fmx4e-NYdTpMsWK5NKSl3RUVa_nt7s8qoSlE/edit?usp=sharing"
 
   # text search
   fuseOpts:

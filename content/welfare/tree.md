@@ -1,14 +1,12 @@
 ---
-title: "Volunteer"
+title: "Tree Plantation Volunteer"
 description: "Youth Club Mangala, Sirsa, Haryana, India"
 dateString: January 2022 - February 2022
 draft: false
 showToc: false
 weight: 401
-
 # ![](/experience/alyog/alyogimage.png#center)
-
---- 
+---
 
 ## Description
 
@@ -17,4 +15,3 @@ weight: 401
 - Created awareness regarding climate change and its adverse effects caused by the large-scale chopping of trees.
 - Took the initiative to educate people about the various ways in which the saving and increased plantation of trees is going to benefit the residents of Sirsa.
 - Encouraged people and various organizations to take a pledge to plant a tree every year on some special occasion.
-
